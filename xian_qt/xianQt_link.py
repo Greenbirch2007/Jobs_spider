@@ -20,7 +20,7 @@ def get_first_page():
     driver.find_element_by_xpath('//*[@id="password"]').send_keys("")#密码
     driver.find_element_by_xpath('//*[@id="login_btn"]').click()
     driver.find_element_by_xpath('//*[@id="topIndex"]/div/p/a[2]').click()
-    driver.find_element_by_xpath('//*[@id="kwdselectid"]').send_keys("C++")  #可以针对其他岗位进行统计分析
+    driver.find_element_by_xpath('//*[@id="kwdselectid"]').send_keys("Qt")  #可以针对其他岗位进行统计分析
     # 还要剔除本地选项　　（“”）
 
     driver.find_element_by_xpath('/html/body/div[2]/form/div/div[1]/button').click()
@@ -35,7 +35,7 @@ def get_first_page():
 # 把首页和翻页处理？
 
 def next_page():
-    for i in range(1,26):  # selenium 循环翻页成功！
+    for i in range(1,5):  # selenium 循环翻页成功！
         driver.find_element_by_xpath('//*[@id="resultList"]/div[55]/div/div/div/ul/li[last()]/a').click()
         time.sleep(1)
         html = driver.page_source
@@ -63,7 +63,7 @@ def insertDB(content):
                                  charset='utf8mb4', cursorclass=pymysql.cursors.DictCursor)
     cursor = connection.cursor()
     try:
-        cursor.executemany('insert into xian_cPlus_link (jobs,link,firms) values (%s,%s,%s)', content)
+        cursor.executemany('insert into xian_Qt_link (jobs,link,firms) values (%s,%s,%s)', content)
         connection.commit()
         connection.close()
         print('向MySQL中添加数据成功！')
@@ -88,9 +88,12 @@ if __name__ == '__main__':
 
 
 # #
-# create table xian_cPlus_link(
+# create table xian_Qt_link(
 # id int not null primary key auto_increment,
 # jobs varchar(80),
 # link varchar(88),
 # firms varchar(80)
 # ) engine=InnoDB  charset=utf8;
+#
+
+# drop table xian_Qt_link;
