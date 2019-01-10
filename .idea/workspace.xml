@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="207efdc3-92e5-4319-9182-0e2d778522ae" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/xian_qt/xianQt_link.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xian_qt/xianQt_num.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/xian_qt/xian_Qt.csv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/XIAN_C++/xianC++_link.py" beforeDir="false" afterPath="$PROJECT_DIR$/XIAN_C++/xianC++_link.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -16,31 +12,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/西安会计岗位/会计/xianAccount_link.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-150">
+              <caret line="17" column="68" selection-start-line="17" selection-start-column="68" selection-end-line="17" selection-end-column="68" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/XIAN_C++/xianC++_link.py">
+        <entry file="file://$PROJECT_DIR$/西安会计岗位/会计/xianAccount_num.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="285">
-              <caret line="19" column="67" selection-start-line="19" selection-start-column="67" selection-end-line="19" selection-end-column="67" />
-              <folding>
-                <element signature="e#24#39#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xian_qt/xianQt_link.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="19" column="67" selection-start-line="19" selection-start-column="67" selection-end-line="19" selection-end-column="67" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/xian_qt/xianQt_num.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="450">
+            <state relative-caret-position="122">
               <caret line="46" column="24" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
               <folding>
                 <element signature="e#0#15#0" expanded="true" />
@@ -62,6 +46,8 @@
         <option value="$PROJECT_DIR$/XIAN_java/xianjava_link.py" />
         <option value="$PROJECT_DIR$/xian_qt/xianQt_num.py" />
         <option value="$PROJECT_DIR$/xian_qt/xianQt_link.py" />
+        <option value="$PROJECT_DIR$/西安会计岗位/会计/xianAccount_link.py" />
+        <option value="$PROJECT_DIR$/西安会计岗位/会计/xianAccount_num.py" />
       </list>
     </option>
   </component>
@@ -98,6 +84,17 @@
               <item name="Jobs_spider" type="462c0819:PsiDirectoryNode" />
               <item name="xian_qt" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="Jobs_spider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Jobs_spider" type="462c0819:PsiDirectoryNode" />
+              <item name="西安会计岗位" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Jobs_spider" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Jobs_spider" type="462c0819:PsiDirectoryNode" />
+              <item name="西安会计岗位" type="462c0819:PsiDirectoryNode" />
+              <item name="会计" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -121,8 +118,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.xianQt_num">
-    <configuration name="xianC++_link" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.xianAccount_num">
+    <configuration name="xianAccount_link" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Jobs_spider" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,11 +127,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/XIAN_C++" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/西安会计岗位/会计" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/XIAN_C++/xianC++_link.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/西安会计岗位/会计/xianAccount_link.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="xianAccount_num" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Jobs_spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/西安会计岗位/会计" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/西安会计岗位/会计/xianAccount_num.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -208,10 +226,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.xianAccount_num" />
+        <item itemvalue="Python.xianAccount_link" />
         <item itemvalue="Python.xianQt_num" />
         <item itemvalue="Python.xianQt_link" />
         <item itemvalue="Python.xianC++_num" />
-        <item itemvalue="Python.xianC++_link" />
       </list>
     </recent_temporary>
   </component>
@@ -232,12 +251,12 @@
     <frame x="0" y="0" width="1366" height="718" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18364312" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.18364312" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32879046" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32879046" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -269,9 +288,16 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/XIAN_C++/xianC++_link.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="15" lean-forward="true" selection-end-line="95" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/xian_qt/xianQt_num.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="450">
+        <state relative-caret-position="585">
           <caret line="46" column="24" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
@@ -286,12 +312,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/XIAN_C++/xianC++_link.py">
+    <entry file="file://$PROJECT_DIR$/西安会计岗位/会计/xianAccount_link.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="19" column="67" selection-start-line="19" selection-start-column="67" selection-end-line="19" selection-end-column="67" />
+        <state relative-caret-position="-150">
+          <caret line="17" column="68" selection-start-line="17" selection-start-column="68" selection-end-line="17" selection-end-column="68" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/西安会计岗位/会计/xianAccount_num.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="122">
+          <caret line="46" column="24" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
           <folding>
-            <element signature="e#24#39#0" expanded="true" />
+            <element signature="e#0#15#0" expanded="true" />
           </folding>
         </state>
       </provider>
