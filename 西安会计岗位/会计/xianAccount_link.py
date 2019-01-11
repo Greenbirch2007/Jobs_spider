@@ -20,7 +20,7 @@ def get_first_page():
     driver.find_element_by_xpath('//*[@id="password"]').send_keys("")#密码
     driver.find_element_by_xpath('//*[@id="login_btn"]').click()
     driver.find_element_by_xpath('//*[@id="topIndex"]/div/p/a[2]').click()
-    driver.find_element_by_xpath('//*[@id="kwdselectid"]').send_keys("中级会计")  #可以针对其他岗位进行统计分析
+    driver.find_element_by_xpath('//*[@id="kwdselectid"]').send_keys("注册会计")  #可以针对其他岗位进行统计分析
     # 还要剔除本地选项　　（“”）
 
     driver.find_element_by_xpath('/html/body/div[2]/form/div/div[1]/button').click()
