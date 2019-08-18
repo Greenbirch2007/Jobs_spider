@@ -15,9 +15,9 @@ def get_first_page():
     driver.get(url)
     time.sleep(3)
     driver.find_element_by_xpath('//*[@id="loginname"]').clear()
-    driver.find_element_by_xpath('//*[@id="loginname"]').send_keys("15091764271") #用户名
+    driver.find_element_by_xpath('//*[@id="loginname"]').send_keys("") #用户名
     driver.find_element_by_xpath('//*[@id="password"]').clear()
-    driver.find_element_by_xpath('//*[@id="password"]').send_keys("likang1989031934")#密码
+    driver.find_element_by_xpath('//*[@id="password"]').send_keys("")#密码
     driver.find_element_by_xpath('//*[@id="login_btn"]').click()
     driver.find_element_by_xpath('//*[@id="topIndex"]/div/p/a[2]').click()
     time.sleep(0.5)

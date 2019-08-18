@@ -8,13 +8,20 @@ from lxml import etree
 from requests.exceptions import RequestException
 
 def call_page(url):
-    try:
-        response = requests.get(url)
-        if response.status_code == 200:
-            return response.text
-        return None
-    except RequestException:
-        return None
+    req = requests.get(url)
+    #  requests 中文编码的终极办法！
+    if req.encoding == 'ISO-8859-1':
+        encodings = requests.utils.get_encodings_from_content(req.text)
+        if encodings:
+            encoding = encodings[0]
+        else:
+            encoding = req.apparent_encoding
+
+        # encode_content = req.content.decode(encoding, 'replace').encode('utf-8', 'replace')
+        global encode_content
+        encode_content = req.content.decode(encoding, 'replace')  # 如果设置为replace，则会用?取代非法字符；
+        return (encode_content)
+
 
 # 正则和lxml混用
 def parse_html(html):  # 正则专门有反爬虫的布局设置，不适合爬取表格化数据！
@@ -44,14 +51,14 @@ def Python_sel_Mysql():
                                  charset='utf8mb4', cursorclass=pymysql.cursors.DictCursor)
     cur = connection.cursor()
     #sql 语句
-    for i in range(8515,15555):
-        sql = 'select link from linux_Operator_link where id = %s ' % i
+    for i in range(498,601):
+        sql = 'select link from GO_link where id = %s ' % i
         # #执行sql语句
         cur.execute(sql)
         # #获取所有记录列表
         data = cur.fetchone()
-        url = data['link']
-        yield url
+        urlS = data['link']
+        yield urlS
 
 def insertDB(content):
     connection = pymysql.connect(host='127.0.0.1', port=3306, user='root', password='123456', db='JOB',
@@ -59,7 +66,7 @@ def insertDB(content):
 
     cursor = connection.cursor()
     try:
-        cursor.executemany('insert into linux_Operator_NUm (jobs, salary,firms, nums0) values (%s,%s,%s,%s)', content)
+        cursor.executemany('insert into GO_NUm (jobs, salary,firms, nums0) values (%s,%s,%s,%s)', content)
         connection.commit()
         connection.close()
         print('向MySQL中添加数据成功！')
@@ -70,6 +77,7 @@ def insertDB(content):
 
 if __name__ == '__main__':
     for url_str in Python_sel_Mysql():
+
         html = call_page(url_str)
         try:
 
@@ -83,7 +91,7 @@ if __name__ == '__main__':
 
 
 
-# create table linux_Operator_NUm(
+# create table GO_NUm(
 # id int not null primary key auto_increment,
 # jobs varchar(80),
 # firms varchar(80),

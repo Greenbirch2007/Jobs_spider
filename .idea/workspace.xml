@@ -2,7 +2,67 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="207efdc3-92e5-4319-9182-0e2d778522ae" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/Jobs_spider.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/Jobs_spider.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C++__finance/C_plus__finance1.py" beforeDir="false" afterPath="$PROJECT_DIR$/C++__finance/C_plus__finance1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C++__finance/C_plus__finance2.py" beforeDir="false" afterPath="$PROJECT_DIR$/C++__finance/C_plus__finance2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C++__finance/c_plus_content.txt" beforeDir="false" afterPath="$PROJECT_DIR$/C++__finance/c_plus_content.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C++__finance/c_plus_cotents.csv" beforeDir="false" afterPath="$PROJECT_DIR$/C++__finance/c_plus_cotents.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/C++__finance/c_plus_cotents.json" beforeDir="false" afterPath="$PROJECT_DIR$/C++__finance/c_plus_cotents.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GOTO_J/FURI.csv" beforeDir="false" afterPath="$PROJECT_DIR$/GOTO_J/FURI.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GOTO_J/GoTo_J1.py" beforeDir="false" afterPath="$PROJECT_DIR$/GOTO_J/GoTo_J1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GOTO_J/GoTo_J2.py" beforeDir="false" afterPath="$PROJECT_DIR$/GOTO_J/GoTo_J2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/GOTO_J/job_toJ_location.csv" beforeDir="false" afterPath="$PROJECT_DIR$/GOTO_J/job_toJ_location.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XIAN_C++/xianC++_link.py" beforeDir="false" afterPath="$PROJECT_DIR$/XIAN_C++/xianC++_link.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XIAN_C++/xianC++_num.py" beforeDir="false" afterPath="$PROJECT_DIR$/XIAN_C++/xianC++_num.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XIAN_C++/xian_cPlus.csv" beforeDir="false" afterPath="$PROJECT_DIR$/XIAN_C++/xian_cPlus.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XIAN_Python/xian_python.csv" beforeDir="false" afterPath="$PROJECT_DIR$/XIAN_Python/xian_python.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XIAN_Python/xian_python_link.py" beforeDir="false" afterPath="$PROJECT_DIR$/XIAN_Python/xian_python_link.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XIAN_Python/xian_python_num.py" beforeDir="false" afterPath="$PROJECT_DIR$/XIAN_Python/xian_python_num.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XIAN_java/xian_java.csv" beforeDir="false" afterPath="$PROJECT_DIR$/XIAN_java/xian_java.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XIAN_java/xianjava_link.py" beforeDir="false" afterPath="$PROJECT_DIR$/XIAN_java/xianjava_link.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/XIAN_java/xianjava_num.py" beforeDir="false" afterPath="$PROJECT_DIR$/XIAN_java/xianjava_num.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shenzhen_yunwei/shenzhen_yunwei.csv" beforeDir="false" afterPath="$PROJECT_DIR$/shenzhen_yunwei/shenzhen_yunwei.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shenzhen_yunwei/shenzhen_yunwei.py" beforeDir="false" afterPath="$PROJECT_DIR$/shenzhen_yunwei/shenzhen_yunwei.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shenzhen_yunwei/shenzhen_yunwei_num.csv" beforeDir="false" afterPath="$PROJECT_DIR$/shenzhen_yunwei/shenzhen_yunwei_num.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/shenzhen_yunwei/shenzhen_yunwei_num.py" beforeDir="false" afterPath="$PROJECT_DIR$/shenzhen_yunwei/shenzhen_yunwei_num.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xian_YUNWEI/xian_yunwei_num.csv" beforeDir="false" afterPath="$PROJECT_DIR$/xian_YUNWEI/xian_yunwei_num.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xian_YUNWEI/yunwei_link.py" beforeDir="false" afterPath="$PROJECT_DIR$/xian_YUNWEI/yunwei_link.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xian_YUNWEI/yunwei_num.py" beforeDir="false" afterPath="$PROJECT_DIR$/xian_YUNWEI/yunwei_num.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xian_qt/xianQt_link.py" beforeDir="false" afterPath="$PROJECT_DIR$/xian_qt/xianQt_link.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xian_qt/xianQt_num.py" beforeDir="false" afterPath="$PROJECT_DIR$/xian_qt/xianQt_num.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/xian_qt/xian_Qt.csv" beforeDir="false" afterPath="$PROJECT_DIR$/xian_qt/xian_Qt.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/全国C++(金融行业)/cPlus_finance.xls" beforeDir="false" afterPath="$PROJECT_DIR$/全国C++(金融行业)/cPlus_finance.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/全国C++(金融行业)/cPlus_finance_Num.py" beforeDir="false" afterPath="$PROJECT_DIR$/全国C++(金融行业)/cPlus_finance_Num.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/全国C++(金融行业)/cPlus_finance_link.py" beforeDir="false" afterPath="$PROJECT_DIR$/全国C++(金融行业)/cPlus_finance_link.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/全国C++(金融行业)/cPlus_finance_links.xls" beforeDir="false" afterPath="$PROJECT_DIR$/全国C++(金融行业)/cPlus_finance_links.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/全国linux运维/linux_Operator.xls" beforeDir="false" afterPath="$PROJECT_DIR$/全国linux运维/linux_Operator.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/全国linux运维/linux_Operator_Num.py" beforeDir="false" afterPath="$PROJECT_DIR$/全国linux运维/linux_Operator_Num.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/全国linux运维/linux_Operator_link.py" beforeDir="false" afterPath="$PROJECT_DIR$/全国linux运维/linux_Operator_link.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/全国linux运维/linux_Operator_links.xls" beforeDir="false" afterPath="$PROJECT_DIR$/全国linux运维/linux_Operator_links.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/全国量化(金融行业)/LH_finance_Num.py" beforeDir="false" afterPath="$PROJECT_DIR$/全国量化(金融行业)/LH_finance_Num.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/全国量化(金融行业)/LH_finance_link.py" beforeDir="false" afterPath="$PROJECT_DIR$/全国量化(金融行业)/LH_finance_link.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/全国量化(金融行业)/LH_finance_links.xls" beforeDir="false" afterPath="$PROJECT_DIR$/全国量化(金融行业)/LH_finance_links.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/已投递的岗位分析/QCWY_nums.py" beforeDir="false" afterPath="$PROJECT_DIR$/已投递的岗位分析/QCWY_nums.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/已投递的岗位分析/myjob.csv" beforeDir="false" afterPath="$PROJECT_DIR$/已投递的岗位分析/myjob.csv" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西安C_#/C_sharp_link.py" beforeDir="false" afterPath="$PROJECT_DIR$/西安C_#/C_sharp_link.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西安C_#/C_sharp_num.py" beforeDir="false" afterPath="$PROJECT_DIR$/西安C_#/C_sharp_num.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西安C_#/c_sharp.xls" beforeDir="false" afterPath="$PROJECT_DIR$/西安C_#/c_sharp.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西安_Data/Xian_Data_link.py" beforeDir="false" afterPath="$PROJECT_DIR$/西安_Data/Xian_Data_link.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西安_Data/Xian_Data_num.py" beforeDir="false" afterPath="$PROJECT_DIR$/西安_Data/Xian_Data_num.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西安会计岗位/中级会计/中级会计岗位.xls" beforeDir="false" afterPath="$PROJECT_DIR$/西安会计岗位/中级会计/中级会计岗位.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西安会计岗位/会计/xianAccount_link.py" beforeDir="false" afterPath="$PROJECT_DIR$/西安会计岗位/会计/xianAccount_link.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西安会计岗位/会计/xianAccount_num.py" beforeDir="false" afterPath="$PROJECT_DIR$/西安会计岗位/会计/xianAccount_num.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西安会计岗位/会计/会计岗位.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/西安会计岗位/会计/会计岗位.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西安会计岗位/会计/招会计的公司.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/西安会计岗位/会计/招会计的公司.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西安会计岗位/注册会计师/注册会计师.xls" beforeDir="false" afterPath="$PROJECT_DIR$/西安会计岗位/注册会计师/注册会计师.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西安税务岗位/xianTax_link.py" beforeDir="false" afterPath="$PROJECT_DIR$/西安税务岗位/xianTax_link.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西安税务岗位/xianTax_num.py" beforeDir="false" afterPath="$PROJECT_DIR$/西安税务岗位/xianTax_num.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/西安税务岗位/西安税务.xls" beforeDir="false" afterPath="$PROJECT_DIR$/西安税务岗位/西安税务.xls" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -10,86 +70,8 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/西安_Data/Xian_Data_num.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="141">
-              <caret line="86" selection-start-line="86" selection-start-column="2" selection-end-line="92" selection-end-column="32" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
-  </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/XIAN_C++/xianC++_num.py" />
-        <option value="$PROJECT_DIR$/XIAN_C++/xianC++_link.py" />
-        <option value="$PROJECT_DIR$/XIAN_java/xianjava_link.py" />
-        <option value="$PROJECT_DIR$/xian_qt/xianQt_num.py" />
-        <option value="$PROJECT_DIR$/xian_qt/xianQt_link.py" />
-        <option value="$PROJECT_DIR$/西安会计岗位/会计/xianAccount_num.py" />
-        <option value="$PROJECT_DIR$/全国linux运维/xianC++_link.py" />
-        <option value="$PROJECT_DIR$/西安会计岗位/会计/xianAccount_link.py" />
-        <option value="$PROJECT_DIR$/全国linux运维/linux_Operator_link.py" />
-        <option value="$PROJECT_DIR$/全国linux运维/linux_Operator_Num.py" />
-        <option value="$PROJECT_DIR$/全国C++(金融行业)/C++_fiance.py" />
-        <option value="$PROJECT_DIR$/全国C++(金融行业)/cPlus_finance_Num.py" />
-        <option value="$PROJECT_DIR$/全国量化(金融行业)/LH_finance_link.py" />
-        <option value="$PROJECT_DIR$/全国量化(金融行业)/LH_finance_Num.py" />
-        <option value="$PROJECT_DIR$/西安税务岗位/xianTax_link.py" />
-        <option value="$PROJECT_DIR$/西安税务岗位/xianTax_num.py" />
-        <option value="$PROJECT_DIR$/已投递的岗位分析/QCWY_nums.py" />
-        <option value="$PROJECT_DIR$/西安C_#/C_sharp_num.py" />
-        <option value="$PROJECT_DIR$/西安C_#/C_sharp_link.py" />
-        <option value="$PROJECT_DIR$/西安_Data/Xian_Data_link.py" />
-        <option value="$PROJECT_DIR$/西安_Data/Xian_Data_num.py" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="232" />
-    <option name="y" value="88" />
-    <option name="width" value="986" />
-    <option name="height" value="680" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="Scope" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Jobs_spider" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Jobs_spider" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Jobs_spider" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Jobs_spider" type="462c0819:PsiDirectoryNode" />
-              <item name="西安_Data" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Jobs_spider" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Jobs_spider" type="462c0819:PsiDirectoryNode" />
-              <item name="西安C_#" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
@@ -108,70 +90,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.Xian_Data_num">
-    <configuration name="C_sharp_link" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Jobs_spider" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/西安C_#" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/西安C_#/C_sharp_link.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="C_sharp_num" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Jobs_spider" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/西安C_#" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/西安C_#/C_sharp_num.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="QCWY_nums" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="Jobs_spider" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/已投递的岗位分析" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/已投递的岗位分析/QCWY_nums.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.mysql_python">
     <configuration name="Xian_Data_link" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="Jobs_spider" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -214,13 +133,76 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="go_Num" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Jobs_spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/全国go" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/全国go/go_Num.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="go_link" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Jobs_spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/全国go" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/全国go/go_link.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mysql_python" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="Jobs_spider" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/从mysql导出数据" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/从mysql导出数据/mysql_python.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.Xian_Data_num" />
+        <item itemvalue="Python.mysql_python" />
+        <item itemvalue="Python.go_Num" />
+        <item itemvalue="Python.go_link" />
         <item itemvalue="Python.Xian_Data_link" />
-        <item itemvalue="Python.C_sharp_num" />
-        <item itemvalue="Python.C_sharp_link" />
-        <item itemvalue="Python.QCWY_nums" />
+        <item itemvalue="Python.Xian_Data_num" />
       </list>
     </recent_temporary>
   </component>
@@ -237,225 +219,15 @@
     </task>
     <servers />
   </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1366" height="718" extended-state="6" />
-    <editor active="true" />
-    <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.29850745" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32867134" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39863715" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Version Control" order="7" />
-      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32879046" />
-      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
-      <window_info anchor="bottom" id="Python Console" order="10" weight="0.32879046" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-    </layout>
-  </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/XIAN_java/xianjava_link.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="90" column="24" selection-start-line="90" selection-start-column="24" selection-end-line="90" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xian_qt/xianQt_num.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="46" column="24" selection-start-line="46" selection-start-column="24" selection-end-line="46" selection-end-column="24" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xian_qt/xianQt_link.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="19" column="67" selection-start-line="19" selection-start-column="67" selection-end-line="19" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/全国linux运维/xianC++_link.py" />
-    <entry file="file://$PROJECT_DIR$/西安会计岗位/会计/xianAccount_link.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="22" column="74" selection-start-line="22" selection-start-column="70" selection-end-line="22" selection-end-column="74" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/西安会计岗位/会计/xianAccount_num.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="990">
-          <caret line="66" column="12" lean-forward="true" selection-start-line="66" selection-start-column="12" selection-end-line="66" selection-end-column="12" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/GOTO_J/GoTo_J1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="24" selection-start-line="24" selection-end-line="27" selection-end-column="84" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/全国linux运维/linux_Operator_link.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="42" lean-forward="true" selection-start-line="42" selection-end-line="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/全国C++(金融行业)/C++_fiance.py" />
-    <entry file="file://$PROJECT_DIR$/全国linux运维/linux_Operator_Num.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="44" column="29" lean-forward="true" selection-end-line="91" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/全国C++(金融行业)/cPlus_finance_link.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="227">
-          <caret line="103" column="34" selection-start-line="103" selection-start-column="15" selection-end-line="103" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/全国C++(金融行业)/cPlus_finance_Num.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="167">
-          <caret line="85" column="33" lean-forward="true" selection-start-line="85" selection-start-column="33" selection-end-line="91" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/全国量化(金融行业)/LH_finance_link.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1649">
-          <caret line="103" column="31" selection-start-line="103" selection-start-column="15" selection-end-line="103" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/全国量化(金融行业)/LH_finance_Num.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="212">
-          <caret line="46" column="25" selection-start-line="46" selection-start-column="25" selection-end-line="46" selection-end-column="25" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/西安税务岗位/xianTax_num.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="265">
-          <caret line="85" column="28" selection-start-line="85" selection-start-column="28" selection-end-line="91" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/西安税务岗位/xianTax_link.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="89" column="5" selection-start-line="89" selection-start-column="5" selection-end-line="89" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/xian_YUNWEI/yunwei_link.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="272">
-          <caret line="37" column="45" lean-forward="true" selection-start-line="37" selection-start-column="45" selection-end-line="40" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/XIAN_Python/xian_python_link.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="10" column="32" lean-forward="true" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/XIAN_C++/xianC++_link.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="15" lean-forward="true" selection-end-line="95" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/XIAN_C++/xianC++_num.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="43" column="91" lean-forward="true" selection-end-line="91" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/已投递的岗位分析/QCWY_nums.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="17">
-          <caret line="19" column="67" selection-start-line="19" selection-start-column="67" selection-end-line="19" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/西安C_#/C_sharp_num.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="482">
-          <caret line="85" selection-end-line="91" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/西安C_#/C_sharp_link.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="24" lean-forward="true" selection-end-line="95" selection-end-column="32" />
-          <folding>
-            <element signature="e#24#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/西安_Data/Xian_Data_link.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="90" column="29" selection-start-line="90" selection-start-column="15" selection-end-line="90" selection-end-column="29" />
-          <folding>
-            <element signature="e#24#39#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/西安_Data/Xian_Data_num.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="86" selection-start-line="86" selection-start-column="2" selection-end-line="92" selection-end-column="32" />
-          <folding>
-            <element signature="e#0#15#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
